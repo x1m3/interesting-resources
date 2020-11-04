@@ -19,3 +19,5 @@ My small list with interesing resources that I like to revisit from time to time
 from someone who’s been doing it for a very long time.
 Topics include: repo structure, configuration, program design, optimization, observability, testing, dependency injection, and many others.
 
+## Team
+*  [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
